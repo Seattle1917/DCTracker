@@ -10,8 +10,11 @@ These challenges pose significant barriers for the application of off-the-shelf 
 
 
 # Tracking performance
+## Results on SoccerNet-Tracking test set
 
 
+
+## SportsMOT-Soccer validation set
 
 
 

@@ -10,13 +10,10 @@ These challenges pose significant barriers for the application of off-the-shelf 
 
 
 # Tracking performance
-## Results on SoccerNet-Tracking test set
-
-
-
-## SportsMOT-Soccer validation set
-
-
+| Datasets           | HOTA ↑ | MOTA ↑ | IDF1 ↑ | FN ↓ | FP ↓ | IDSW ↓ | Frag ↓ | DetA ↑ | AssA ↑ |
+|-------------------|--------|--------|--------|-------|-------|--------|--------|--------|--------|
+| SoccerNet-Tracking test  | 67.0 | 88.8 | 77.4 | 44259 | 17281 | 1801 | 7063   | 73.9 | 60.8 |
+| SportsMOT-Soccer val | 74.6 | 93.0 | 76.2 | 2417 | 5469 | 331 | 538 | 84.4 | 65.9 |
 
 # Installation
 

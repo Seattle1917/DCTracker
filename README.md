@@ -1,5 +1,5 @@
 # DCTracker
-DCTracker: Multi-Object Tracking in Soccer Games with Dual Views and Cascade Selection.
+DCTracker: Rethinking MOT in Soccer Events Under Dual Views via Cascade Association.
 
 Long Hu, Junjie Zhanga, Weiyi Lv, Yongshun Gong, Jingya Wang, Jian Zhang and Dan Zeng
 

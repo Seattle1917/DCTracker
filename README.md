@@ -1,8 +1,9 @@
 # DCTracker
 DCTracker: Rethinking MOT in Soccer Events Under Dual Views via Cascade Association.
 
-Long Hu, Junjie Zhanga, Weiyi Lv, Yongshun Gong, Jingya Wang, Jian Zhang and Dan Zeng
+Long Hu, Junjie Zhang, Weiyi Lv, Yongshun Gong, Jingya Wang, Jian Zhang and Dan Zeng
 
+It is currently accepted in the journal Knowledge-Based Systems (2024/09).
 
 # Abstract
 Multi-Object Tracking (MOT) presents promising applications in intelligent sporting event analysis. Existing models primarily cater to pedestrian-dominant scenarios with fixed camera locations and linear motion trajectories. However, sporting events introduce unique challenges: (i) cameras exhibit significant movement and dynamic focal length changes, causing drastic shifts in player positions between frames. (ii) player motion trajectories are nonlinear and influenced by game trends, resulting in complex, fast-paced behaviors compounded by irregular camera motions. (iii) challenges such as image blurring, occlusion, and similar player appearances complicate the maintenance of robust and distinctive identification-related visual states. 
